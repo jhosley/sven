@@ -15,7 +15,7 @@ Built 2026-11-04 from your resumes, Drive notes, and recent work files. Everythi
 7. **Featured.** Pin three items (Part 6). An empty Featured section on a poster's profile reads as "nothing to show."
 8. **Skills.** Replace the list with Part 5 and pin the top three. Skills drive search.
 9. **Creator mode / Follow.** Settings, Visibility, make Follow the primary button instead of Connect. Posters want followers, not connection requests to screen.
-10. **Certifications.** List CISSP only if it is active. An ISC2 notice in October said it lapses within a month unless the fee is paid, so pay it first or leave it off. Add CISM only if you kept it current **[confirm]**.
+10. **Certifications.** Keep CISSP listed. You are letting it lapse, so when it does, edit the entry to add an expiration date rather than deleting it; LinkedIn supports that and it keeps the credential in search. Add CISM only if you kept it current **[confirm]**.
 11. **Recommendations.** Ask two people: one who worked for you when you built Commercial Security Solutions, and one peer from the CSRE years. Offer to draft it for them. Two real recommendations beat ten endorsements.
 12. **Open to.** Turn off "Open to work" if it is on. You are posting as an executive, not a candidate.
 
@@ -74,6 +74,8 @@ Founded the CSRE function and ran it through its first years. (Collapse this int
 ### Comcast — Senior Director, Commercial Security Solutions
 *Philadelphia, PA · January 2019 – [end, confirm]*
 
+(Started January 2, 2019, the first business day after leaving URBN. LinkedIn shows month and year only, so enter January 2019.)
+
 Hired to create Comcast Business's cyber security product and service capability. There was no team when I started.
 
 - Set the strategy for building, delivering and operating security services for small and mid-size business customers, including school systems, regional banks and retail.
@@ -81,7 +83,7 @@ Hired to create Comcast Business's cyber security product and service capability
 - Partnered with Comcast Business product and sales leadership to take the first commercial security offerings to market.
 
 ### URBN (Urban Outfitters, Anthropologie, Free People) — Chief Information Security Officer
-*Philadelphia, PA · 2014 – 2018 **[confirm end month]***
+*Philadelphia, PA · 2014 – December 2018*
 
 CISO for a multi-brand retailer with global stores and e-commerce; accountable for the security program across the enterprise.
 
@@ -120,7 +122,7 @@ Software, database, network and security design for a direct-marketing applicati
 
 ### Education and certifications
 - West Chester University of Pennsylvania, English Literature
-- CISSP, ISC2 (renew before listing)
+- CISSP, ISC2 (add expiration date once it lapses)
 - CISM, ISACA **[only if current]**
 
 ---
@@ -266,7 +268,6 @@ Keep every example generic. No vendor stack, no internal numbers.
 
 ## Part 10. Facts to confirm before you publish
 
-- URBN end date (email timing points to late 2018).
 - Start dates for Senior Director CSRE and Executive Director CSRE.
-- CISSP renewal status; CISM status.
+- CISM status.
 - Whether Comcast's social policy requires any disclaimer beyond "opinions are my own."
