@@ -27,7 +27,7 @@ Built 2026-11-04 from your resumes, Drive notes, and recent work files. Everythi
 > Executive Director, Cyber Security Reliability Engineering at Comcast | Securing systems at network-operator scale | AI agent traffic, agentic AI observability, security engineering as an SRE discipline
 
 **Option B (shorter, broader):**
-> Executive Director, Cyber Security Reliability Engineering | Comcast | 25 years running security operations and engineering at Citi, URBN and Comcast
+> Executive Director, Cyber Security Reliability Engineering | Comcast | Former CISO at URBN | 25 years running security operations and engineering at Citi, URBN and Comcast
 
 **Option C (leans into the AI angle):**
 > I run cyber security reliability engineering at Comcast | Writing about what AI agents do to customer portals, security telemetry and the SOC
@@ -40,7 +40,7 @@ I run Cyber Security Reliability Engineering at Comcast. The short version of th
 
 I came to that view the long way. At Citigroup I spent fourteen years in global security infrastructure, ending as the Vice President responsible for perimeter security operations worldwide: a 24x7 team of about forty across North America, Europe and Asia, running firewalls, proxies, IDS, content filtering and remote access for one of the largest networks in financial services. Along the way I led the technical integration of Banamex onto the Citi network, consolidated hundreds of firewalls into a handful of strategic sites, and automated enough routine work that we cut operating cost while raising throughput.
 
-At URBN I led information security across the Urban Outfitters, Anthropologie and Free People brands, which taught me what security looks like when the business runs on stores, e-commerce and a very fast product cycle.
+At URBN I was Chief Information Security Officer across the Urban Outfitters, Anthropologie and Free People brands, which taught me what security looks like when the business runs on stores, e-commerce and a very fast product cycle.
 
 I joined Comcast in 2019 to start Commercial Security Solutions from a team of one. By the end of the first year it was about thirty people across product engineering, production integration and a commercial security operations center, delivering security services to Comcast Business customers. Since then I have built and led the Cyber Security Reliability Engineering function.
 
@@ -80,13 +80,13 @@ Hired to create Comcast Business's cyber security product and service capability
 - Grew the group from one person to about thirty in twelve months, organized into Product Engineering, Production Integration and a Commercial Security Operations Center.
 - Partnered with Comcast Business product and sales leadership to take the first commercial security offerings to market.
 
-### URBN (Urban Outfitters, Anthropologie, Free People) — Director, Information Security **[confirm exact title]**
-*Philadelphia, PA · 2014 – 2018 **[confirm]***
+### URBN (Urban Outfitters, Anthropologie, Free People) — Chief Information Security Officer
+*Philadelphia, PA · 2014 – 2018 **[confirm end month]***
 
-Led information security for a multi-brand retailer with global stores and e-commerce.
+CISO for a multi-brand retailer with global stores and e-commerce; accountable for the security program across the enterprise.
 
-- Owned security policy, monitoring, identity and access, and incident response across the brands.
-- Built and led the security analyst and administration team. **[add a sentence on a program you are proud of: PCI, e-commerce fraud, IAM, etc.]**
+- Owned security strategy, policy, monitoring, identity and access, incident response and PCI compliance across the brands.
+- Built and led the security team and reported on risk to executive leadership. **[add a sentence on a program you are proud of: PCI, e-commerce fraud, IAM, etc.]**
 
 ### Citigroup — Vice President, Global Security Infrastructure
 *New Castle, DE · 2004 – 2014*
@@ -266,7 +266,7 @@ Keep every example generic. No vendor stack, no internal numbers.
 
 ## Part 10. Facts to confirm before you publish
 
-- URBN title and dates (I have 2014 to late 2018 from email timing).
+- URBN end date (email timing points to late 2018).
 - Start dates for Senior Director CSRE and Executive Director CSRE.
 - CISSP renewal status; CISM status.
 - Whether Comcast's social policy requires any disclaimer beyond "opinions are my own."
