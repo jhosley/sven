@@ -57,7 +57,7 @@ CISSP. Based outside Philadelphia. Opinions here are my own.
 ## Part 4. Experience entries
 
 ### Comcast — Executive Director, Cyber Security Reliability Engineering
-*Philadelphia, PA · [start month/year, confirm] – Present*
+*Philadelphia, PA · [keep the month and year LinkedIn already shows for this promotion] – Present*
 
 Lead the Cyber Security Reliability Engineering (CSRE) function: the team that applies site reliability engineering practice to security controls across Comcast's networks and platforms.
 
@@ -67,12 +67,12 @@ Lead the Cyber Security Reliability Engineering (CSRE) function: the team that a
 - Judge for Comcast's internal innovation awards; developed scoring lenses for leverage and adoption friction used in review.
 
 ### Comcast — Senior Director, Cyber Security Reliability Engineering
-*[dates, confirm] – [dates]*
+*Philadelphia, PA · 2020 – [month and year of the Executive Director promotion, as LinkedIn shows it]*
 
-Founded the CSRE function and ran it through its first years. (Collapse this into the entry above if the promotion was in place; LinkedIn lets you stack roles under one employer.)
+Founded the CSRE function and ran it through its first years. Keep this as its own entry stacked under Comcast; the 2020 founding date is a useful marker.
 
 ### Comcast — Senior Director, Commercial Security Solutions
-*Philadelphia, PA · January 2019 – [end, confirm]*
+*Philadelphia, PA · January 2019 – 2020*
 
 (Started January 2, 2019, the first business day after leaving URBN. LinkedIn shows month and year only, so enter January 2019.)
 
@@ -268,6 +268,5 @@ Keep every example generic. No vendor stack, no internal numbers.
 
 ## Part 10. Facts to confirm before you publish
 
-- Start dates for Senior Director CSRE and Executive Director CSRE.
 - CISM status.
 - Whether Comcast's social policy requires any disclaimer beyond "opinions are my own."
