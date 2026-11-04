@@ -15,7 +15,7 @@ Built 2026-11-04 from your resumes, Drive notes, and recent work files. Everythi
 7. **Featured.** Pin three items (Part 6). An empty Featured section on a poster's profile reads as "nothing to show."
 8. **Skills.** Replace the list with Part 5 and pin the top three. Skills drive search.
 9. **Creator mode / Follow.** Settings, Visibility, make Follow the primary button instead of Connect. Posters want followers, not connection requests to screen.
-10. **Certifications.** Keep CISSP listed. You are letting it lapse, so when it does, edit the entry to add an expiration date rather than deleting it; LinkedIn supports that and it keeps the credential in search. Add CISM only if you kept it current **[confirm]**.
+10. **Certifications.** Keep CISSP listed. You are letting it lapse, so when it does, edit the entry to add an expiration date rather than deleting it; LinkedIn supports that and it keeps the credential in search.
 11. **Recommendations.** Ask two people: one who worked for you when you built Commercial Security Solutions, and one peer from the CSRE years. Offer to draft it for them. Two real recommendations beat ten endorsements.
 12. **Open to.** Turn off "Open to work" if it is on. You are posting as an executive, not a candidate.
 
@@ -123,7 +123,6 @@ Software, database, network and security design for a direct-marketing applicati
 ### Education and certifications
 - West Chester University of Pennsylvania, English Literature
 - CISSP, ISC2 (add expiration date once it lapses)
-- CISM, ISACA **[only if current]**
 
 ---
 
@@ -268,5 +267,4 @@ Keep every example generic. No vendor stack, no internal numbers.
 
 ## Part 10. Facts to confirm before you publish
 
-- CISM status.
 - Whether Comcast's social policy requires any disclaimer beyond "opinions are my own."
