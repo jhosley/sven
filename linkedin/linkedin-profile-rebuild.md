@@ -89,7 +89,7 @@ Led information security for a multi-brand retailer with global stores and e-com
 - Built and led the security analyst and administration team. **[add a sentence on a program you are proud of: PCI, e-commerce fraud, IAM, etc.]**
 
 ### Citigroup — Vice President, Global Security Infrastructure
-*New Castle, DE · 2004 – 2014 **[confirm end year]***
+*New Castle, DE · 2004 – 2014*
 
 Led Global Security Operations for North America and Latin America, expanded in 2007 to the primary leadership role for perimeter security teams worldwide.
 
@@ -266,8 +266,7 @@ Keep every example generic. No vendor stack, no internal numbers.
 
 ## Part 10. Facts to confirm before you publish
 
-- URBN title and dates (I have mid-2014 to late 2018 from email timing).
-- Citigroup end date (resume says 2007 but Citi email was in use through 2012 and the 2014 URBN move suggests 2000 to 2014).
+- URBN title and dates (I have 2014 to late 2018 from email timing).
 - Start dates for Senior Director CSRE and Executive Director CSRE.
 - CISSP renewal status; CISM status.
 - Whether Comcast's social policy requires any disclaimer beyond "opinions are my own."
